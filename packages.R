@@ -1,7 +1,3 @@
-#install.packages("tidytext")
-#install.packages("stringr")
-#install.packages("plotly")
-
 library(tidyverse)
 library(shiny)
 library(shinydashboard)
@@ -11,7 +7,14 @@ library(DT)
 library(stringr)   
 library(tidytext) 
 library(plotly)
-library(dplyr)
 
+#install.packages("XML")
+# Chatgpt 
+library(httr)
+library(sass)
+library(markdown)
+library(waiter)
+library(shinyjs)
 
+library(XML)
 

@@ -1,3 +1,1 @@
-# Shopper-project
-
-Ceci est 
+ceci est mon readme
